@@ -12,7 +12,7 @@ class Email extends BaseConfig
     public string $mailPath = '/usr/sbin/sendmail';
     public string $SMTPHost = 'stmp.gmail.com';
     public string $SMTPUser = 'seemlesspay1@gmail.com';
-    public string $SMTPPass = 'hnvxpkdkuwolbhfu';
+    public string $SMTPPass = '..............';
     public int $SMTPPort = 465;
     public bool $SMTPKeepAlive = false;
     public string $SMTPCrypto = 'tls';
